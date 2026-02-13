@@ -23,7 +23,7 @@
     "server"
   ],
   "devDependencies": {
-    "@typechain/web3-v1": "^2.2.0",
+    "@typechain/web3-v1": "^6.0.7",
     "ganache-cli": "^6.12.2",
     "typechain": "^4.0.3"
   }
