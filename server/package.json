@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^7.6.15",
-    "@nestjs/core": "^7.6.15",
+    "@nestjs/core": "^11.1.18",
     "@nestjs/platform-express": "^7.6.15",
     "@xdvplatform/contracts": "^2.0.0",
     "reflect-metadata": "^0.1.13",
